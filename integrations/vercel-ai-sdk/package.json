@@ -41,7 +41,7 @@
     "ai": "^6.0.199",
     "dotenv": "^16.6.1",
     "partial-json": "0.1.7",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@edge-runtime/vm": "^3.2.0",
